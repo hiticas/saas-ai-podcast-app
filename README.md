@@ -37,6 +37,7 @@ The SaaS AI Podcast App is a next-generation platform that leverages artificial 
 - **Express**: Fast, unopinionated, minimalist web framework for Node.js.
 - **MongoDB**: NoSQL database for storing user data and podcast metadata.
 - **Tailwind CSS**: Utility-first CSS framework for rapid UI development.
+- **shadcn/ui**: Beautifully designed components that you can copy and paste into your apps.
 
 ## Getting Started
 
